@@ -7,5 +7,5 @@ I am passionate about the security aspect of computer science, particularly in u
 ## Classes
 I have taken several courses, including COMP 110, where I learned Python and HTML, COMP 283, which covered set theory, counting methods, and proofs, and COMP 290, where we focused on software engineering tools like Git, GitHub, and basic HTTP. 
 
-# Tools and Programming Languages
+## Tools and Programming Languages
 Programming languages I know include Python and HTML. With these languages, I created personal projects, inspired by Battleship and create Webisites. 
